@@ -17,7 +17,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            description: 'Scroll to see the heat level of each HOLC grade, where red is hotter and green is cooler.',
+            description: 'Scroll to see the heat level of each HOLC grade, where <span style="color: red";>red</span> is hotter and <span style="color: blue";>blue</span> is cooler.',
             location: {
                 center: [-80.152, 25.795],
                 zoom: 11.3,
